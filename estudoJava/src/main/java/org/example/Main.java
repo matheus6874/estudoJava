@@ -14,9 +14,9 @@ public class Main {
         System.out.println("Female  " + female.getName());
         System.out.println("Female age " + female.getAge());
 
-
-        System.out.println(maleRecord.age());
-        System.out.println(maleRecord.name());
+//
+//        System.out.println(maleRecord.age());
+//        System.out.println(maleRecord.name());
 
 
     }
